@@ -1,0 +1,6 @@
+{
+  "name": "Diegos Lerntool Pro",
+  "description": "Premium Finance Planner, Secure Document Vault and Intelligent Personal Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
